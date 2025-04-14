@@ -45,8 +45,8 @@ pip install opencv-python face-recognition
   - Conhecido → "pode entrar"
   - Desconhecido → "entrada proibida"
 - *2 rostos detectados*:
-  - Pelo menos 1 conhecido → "pode entrar"
-  - Ambos desconhecidos → "entrada proibida"
+  - Se 2 conhecidos → "pode entrar"
+  - Pelo menos 1 desconhecido → "entrada proibida"
 
 ---
 
